@@ -1,0 +1,15 @@
+modules:
+todo logic (CRUD)
+UI logic
+
+
+
+
+todo items object properties:
+id
+title
+description
+notes
+completion
+duedate
+project
