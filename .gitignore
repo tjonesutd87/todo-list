@@ -129,4 +129,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+/src/splash-screen.html
+/src/todo-page-mockup.html
+
 planning.txt
