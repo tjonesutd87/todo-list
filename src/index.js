@@ -1,4 +1,4 @@
 import './styles.css';
-import { splashPageLoader } from './splash-load.js';
+import { splashPageLoader } from './ui.js';
 
 splashPageLoader();
